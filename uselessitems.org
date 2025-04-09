@@ -119,6 +119,22 @@ This seemingly plain gold ring is actually the rim of a portable hole. The user 
 ** Bottle Cap of Bubbles
 This strange bottle cap is enchanted so that any opened beverage it is placed upon at the top will retain its fizzy bubbles no matter how long it has been open. Placed upon the top of an opened bottle (if the liquid inside has bubbles to begin with), it will seal itself and require a bottle opener to open back up. Once done, it will reshape itself to be reused immediately as needed. Should the liquid inside have no bubble, it will not create new ones - it merely preserves the ones already inside. Also, it will not keep the liquid inside fresh indefinitely - the liquid will grow stale and perish at a normal rate as if open. As bottled beverages are already a fairly rare thing, this enchanted item appears to be nothing more than the whimsical creation of a rather well off mage.
 
+** Pencil of Self-Sharpening
+This seemingly normal pencil, perfect for drawing or writing, will always keep a sharpened tip. The pencil will wear down normally, but the user simply does not have to sharpen it. The shavings simply disappear as it sharpens itself over time. The pencil lasts as long as any other normal pencil.
+
+** Spotless Ink Bottle
+This normal glass container for ink for calligraphy or quills will never spill. Whenever anyone dips a nib into it, it will be perfectly coated and never drip. The cap is a lovely simple polished silver and it may be refilled as desired with any kind of ink. Even if the bottle is clumsily pushed off of a desk or table, the ink will stay inside and simply not spill.
+
+** Desk of Mendiat the Monk
+This simple wooden desk and chair were created by a monk scribe centuries ago. They are simple polished wood (and now stained with centuries of use) and come as a matching set. They look much like any other copying scribe's desk except that they are enchanted to always be at the proper height for perfect posture. This enables the writer (or copyist) to write all day and night without being fatigued by being bent over the desk. Fatigue from passing time is, however, as normal, but the scribe will never feel as if their back has hurt from being hunched over the entire time.
+
+** Paperweight of Precognition
+This carved marble paperweight (shaped like a hand, palm facing down) will always be ready to hold down a page that might be turned over by wind or clumsy action, should the page not be purposefully turned by the owner. The owner does not have to put the paperweight down - it will simply move from anywhere on the desk or table instantly to stop the page from turning. The index finger will also always point to the last passage being read by the owner. If the book is accidentally pushed off of the table, the hand will stop it from dropping and put it back on the table, page open, with the finger pointing where the owner left off from reading.
+
+** Deck of Solitude
+This card deck looks normal enough, if not beautifully made with gilded designs and of the highest quality card stock. It is housed in a finely made leather pouch with a flap top. It was made by a loner mage who didn't like to socialize, but did like to play games - specifically card games. Having grown tired of playing solitaire, he made this deck which enables the owner to play any card game against an invisible opponent. When placed upon the table, the owner selects any card from Ace to 10 and places it face down on the table. This represents the level of challenge he wishes for the game. The deck then shuffles itself and deals itself across the table. The invisible opponent will be an invisible force which holds the cards up across the table and maneuvers them at the game level chosen. They, or the owner, can act as the dealer in any game desired - blackjack, poker, or any other game involving cards. Furthermore, should the game involve cards with different designs rather than the classic ones, the cards will adapt to such designs automatically. The cards can also be used with other players instead of alone, should the owner desire it.
+
+
 * Not entirely useless items:
 
 ** Toiletry Kit of Calipro the Clean:
