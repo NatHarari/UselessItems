@@ -116,6 +116,9 @@ Neemer was a mage who was (wrongly) convinced that being a telepath was a diseas
 ** Portable Hole Ring
 This seemingly plain gold ring is actually the rim of a portable hole. The user cannot change the size of the opening as it is set by the metal itself, thus only very tiny objects can be put inside. The size of the hole is a vast 3 meters cubed, but it would take a long time to fill with such tiny objects which can only be passed through the hole of the ring. There is no way to close the hole so that things don't fall out aside from wearing the ring - a perfectly safe thing to do. The other drawback is that wearing the ring, the finger inside of the hole becomes completely invisible to the outside and makes the wearer look like they are missing a finger. When inside of the hole, the finger is perfectly capable of being used, even though completely invisible. What use these rings might have has hitherto escaped the understanding of most people.
 
+** Bottle Cap of Bubbles
+This strange bottle cap is enchanted so that any opened beverage it is placed upon at the top will retain its fizzy bubbles no matter how long it has been open. Placed upon the top of an opened bottle (if the liquid inside has bubbles to begin with), it will seal itself and require a bottle opener to open back up. Once done, it will reshape itself to be reused immediately as needed. Should the liquid inside have no bubble, it will not create new ones - it merely preserves the ones already inside. Also, it will not keep the liquid inside fresh indefinitely - the liquid will grow stale and perish at a normal rate as if open. As bottled beverages are already a fairly rare thing, this enchanted item appears to be nothing more than the whimsical creation of a rather well off mage.
+
 * Not entirely useless items:
 
 ** Toiletry Kit of Calipro the Clean:
